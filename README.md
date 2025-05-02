@@ -6,12 +6,15 @@ A machine learning model to predict chronic kidney disease, deployed with Flask.
 ## How to Run Locally
 
 1. Install dependencies:
+
 pip install -r requirements.txt
 
 2. Train the model:
+
 python kidney_model.py
 
 3. Run the Flask app:
+
 python app.py
 
 4. Test API:
